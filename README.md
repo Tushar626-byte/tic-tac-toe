@@ -1,10 +1,16 @@
-# tic-tac-toe
-A basic Tic Tac Toe game built using HTML/JavaScript/CSS. No dependencies.
+# Tic-Tac-Toe Game
 
-##How to get started
+This is a simple Tic-Tac-Toe game built using [insert your tech stack here, e.g., HTML, CSS, JavaScript].
 
-1.To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the next player’s chance.
-2.At each move, The game will show whose move (Player A or Player B) it is. When the game ends, it displays one of the following three outcomes:
-3.Winner: Player A
-4.Winner: Player B
-5.Draw
+## Live Demo
+You can play the game live [here](https://tic-tac-toe-xi-nine-30.vercel.app/) on Vercel.
+
+## Features
+- Player vs Player mode
+- Simple UI
+- Lightweight and responsive
+
+## How to Play
+1. The game board consists of a 3x3 grid.
+2. Two players take turns marking a cell with their symbol (X or O).
+3. The player who manages to align three symbols (horizontally, vertically, or diagonally) wins.
