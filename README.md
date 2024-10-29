@@ -30,10 +30,6 @@ Welcome to the **Tic-Tac-Toe Game**! This repository hosts a classic Tic-Tac-Toe
 
 > **Note**: Make sure you have Python installed.
 
-## 📷 Screenshots
-
-Add some screenshots or a GIF of the game here to showcase the gameplay.
-
 ## 🧠 Game Logic
 
 The AI is powered by the minimax algorithm, providing a challenging experience with each game.
