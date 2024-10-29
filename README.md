@@ -1,16 +1,57 @@
-# Tic-Tac-Toe Game
+---
 
-This is a simple Tic-Tac-Toe game built using [insert your tech stack here, e.g., HTML, CSS, JavaScript].
+# Tic-Tac-Toe Game 🎮
 
-## Live Demo
-You can play the game live [here](https://tic-tac-toe-xi-nine-30.vercel.app/) on Vercel.
+Welcome to the **Tic-Tac-Toe Game**! This repository hosts a classic Tic-Tac-Toe game implemented in Python. Play solo against an AI opponent or challenge a friend!
 
-## Features
-- Player vs Player mode
-- Simple UI
-- Lightweight and responsive
+🔗 **[Play Now on Vercel](https://tic-tac-toe-xi-nine-30.vercel.app/)**
 
-## How to Play
-1. The game board consists of a 3x3 grid.
-2. Two players take turns marking a cell with their symbol (X or O).
-3. The player who manages to align three symbols (horizontally, vertically, or diagonally) wins.
+## 🎯 Features
+
+- **Single Player Mode**: Play against a smart AI.
+- **Multiplayer Mode**: Play against a friend.
+- **User-Friendly Interface**: Simple and intuitive gameplay.
+- **Minimalist Design**: Clean, distraction-free design.
+
+## 🛠️ Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Tushar626-byte/tic-tac-toe.git
+   ```
+2. **Navigate to the Project Directory**
+   ```bash
+   cd tic-tac-toe
+   ```
+3. **Run the Game**
+   ```bash
+   python tic_tac_toe.py
+   ```
+
+> **Note**: Make sure you have Python installed.
+
+## 📷 Screenshots
+
+Add some screenshots or a GIF of the game here to showcase the gameplay.
+
+## 🧠 Game Logic
+
+The AI is powered by the minimax algorithm, providing a challenging experience with each game.
+
+## 🤝 Contributing
+
+1. Fork the repository.
+2. Create your feature branch: `git checkout -b feature/AmazingFeature`.
+3. Commit your changes: `git commit -m 'Add AmazingFeature'`.
+4. Push to the branch: `git push origin feature/AmazingFeature`.
+5. Open a pull request.
+## 📞 Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- **Email**: [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)
+- **Instagram**: [ff_tushar999](https://instagram.com/ff_tushar999)
+
+---
+
+Enjoy the game, and feel free to contribute or provide feedback! 😄
